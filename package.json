@@ -1,0 +1,14 @@
+{
+  "name": "vscode-report-repo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@syllepsis/access-react": "0.0.1",
+    "@syllepsis/adapter": "0.0.1",
+    "@syllepsis/editor": "0.0.1",
+    "@syllepsis/plugin-basic": "0.0.1"
+  }
+}
